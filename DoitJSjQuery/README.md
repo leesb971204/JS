@@ -6,9 +6,9 @@
 
 # <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 
-### 1. [자바스크립트 시작하기](https://github.com/leesb971204/JS)
+### 1. [자바스크립트 시작하기](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter01)
 
-### 2. [자바스크립트 기초 문법](https://github.com/leesb971204/JS)
+### 2. [자바스크립트 기초 문법](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter02)
 
 ### 3. [제어문](https://github.com/leesb971204/JS)
 
