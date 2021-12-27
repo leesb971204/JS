@@ -10,7 +10,7 @@
 
 ### 2. [자바스크립트 기초 문법](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter02)
 
-### 3. [제어문](https://github.com/leesb971204/JS)
+### 3. [제어문](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter03)
 
 ### 4. [객체](https://github.com/leesb971204/JS)
 
