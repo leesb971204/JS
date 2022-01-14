@@ -12,13 +12,7 @@
           "background-color": "#0ff",
           border: "2px solid #f00",
         };
-        var style_2 = {
-          "background-color": "#f00",
-          border: "2px dashed #f00",
-        };
-
-        $(".txt").prevAll().css(style_1);
-        $(".txt").nextAll().css(style_2);
+        $(".txt").siblings().css(style_1);
       });
     </script>
   </head>
