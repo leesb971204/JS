@@ -12,11 +12,11 @@
 
 ### 3. [제어문](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter03)
 
-### 4. [객체](https://github.com/leesb971204/JS)
+### 4. [객체](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter04)
 
-### 5. [함수](https://github.com/leesb971204/JS)
+### 5. [함수](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter05)
 
-### 6. [제이쿼리 문서 객체 선택자와 조작법](https://github.com/leesb971204/JS)
+### 6. [제이쿼리 문서 객체 선택자와 조작법](https://github.com/leesb971204/JS/tree/main/DoitJSjQuery/chapter06)
 
 ### 7. [제이쿼리 이벤트](https://github.com/leesb971204/JS)
 
